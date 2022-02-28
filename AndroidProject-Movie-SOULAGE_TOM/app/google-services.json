@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239936971738",
+    "firebase_url": "https://movies-cb1aa-default-rtdb.firebaseio.com",
+    "project_id": "movies-cb1aa",
+    "storage_bucket": "movies-cb1aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239936971738:android:8bbf899b3f16337c88d6e3",
+        "android_client_info": {
+          "package_name": "com.example.androidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239936971738-8md1anq41cb3kevi090s94q0dsdflkoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdL_GzgS1Ej7f90wL6oES42X2KoNgb9iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239936971738-8md1anq41cb3kevi090s94q0dsdflkoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
