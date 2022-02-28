@@ -1,0 +1,3 @@
+# MoviesProgram-MobileApplication
+(2021) Mobile application developed with Kotlin ( Android Studio ). 
+Displays the movies of a cinema, map with the location of the cinema, management of the display of the movies according to what you want to see...
